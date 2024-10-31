@@ -31,7 +31,7 @@ Catch me for a game of chess on [Lichess](https://lichess.org/@/mayankwastaken) 
 
 ## 📫 Reach Me
 
-For collaboration or questions about my projects, connect here on GitHub or email me at [dm.mayankjain@gmail.com].
+For collaboration or questions about my projects, connect here on GitHub or email me at <u>dm.mayankjain@gmail.com</u>.
 
 ---
 
