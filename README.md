@@ -1,6 +1,6 @@
 # Hello 👋
 
-**I am Mayank, a Pre-Final Year IT Engineer**
+**I am Mayank, a Final Year IT Engineer**
 
 Passionate about leveraging technology to solve real-world problems and create impactful solutions. Currently diving deep into game development, collaborative projects, and the finer details of software engineering.
 
